@@ -40,9 +40,6 @@ SQL Views (MySQL used for preprocessing)
 
 Custom images, tournament logos and navigation buttons used in Power BI
 
-🏆 Dashboard Pages
-1️⃣ Home Page
-Valorant branding
 
 Quick navigation buttons for major tournaments:
 
